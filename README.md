@@ -35,3 +35,6 @@ run  the conv3d.ipynb
 
 for training convRNN model
 run Convolutions+++RNN.ipynb
+
+[The consolidated codes for all the methodologies tried are in gesture-recognition-trial.ipynb and the corresponding results are noted in gesture-recognition-trial.doc]
+

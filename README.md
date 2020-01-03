@@ -15,7 +15,7 @@ Stop: Pause the movie
 Each video is a sequence of 30 frames (or images).It consists of a few hundred videos categorised into one of the five classes. Each video (typically 2-3 seconds long) is divided into a sequence of 30 frames(images). These videos have been recorded by various people performing one of the five gestures in front of a webcam - similar to what the smart TV will use. 
 
 The data is in a zip file. The zip file contains a 'train' and a 'val' folder with two CSV files for the two folders. These folders are in turn divided into subfolders where each subfolder represents a video of a particular gesture. Each subfolder, i.e. a video, contains 30 frames (or images). All images in a particular video subfolder have the same dimensions but different videos may have different dimensions.The main folder which contains Project_data is sampled to smalled sample_data folder to provide an impression of the data
-The samples can be generated at user end as the real training data size is more than 1.5 gb 
+The samples can be generated at user end as the real training data size is more than 1.5 GB 
 
 For analysing videos using neural networks, two types of architectures are used commonly. One is the standard CNN + RNN architecture in which images of a video are passed through a CNN which extracts a feature vector for each image, and then  sequence of these feature vectors are passed through an RNN. 
 

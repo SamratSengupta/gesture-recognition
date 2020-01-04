@@ -39,3 +39,7 @@ run Convolutions+++RNN.ipynb
 
 [The consolidated codes for all the methodologies tried are in gesture-recognition-trial.ipynb and the corresponding results are noted in gesture-recognition-trial.doc]
 
+To get the actual training data please follow the link
+https://drive.google.com/open?id=1ZzXudIr315v_Y6mOAd8YJoTgygo-baO-
+
+
